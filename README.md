@@ -1,6 +1,6 @@
 # Hi, I'm Delia 👋
 
-## Software Quality Assurance | Technical Systems | Process Improvement | Python Automation
+## Software Quality Assurance | Technical Operations | Process Improvement | Python Automation
 
 I am a Software Quality Assurance professional with **5+ years of experience in software testing**, with more recent experience in process quality, business systems support, operational reporting, Python automation, and workflow improvement.
 
