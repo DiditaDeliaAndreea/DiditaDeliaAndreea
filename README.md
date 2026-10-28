@@ -1,12 +1,12 @@
 # Hi, I'm Delia 👋
 
-## Software Quality Assurance | Technical Operations | Process Improvement | Python Automation
+## Software Quality Assurance | Technical Operations | Process Improvement | Python & SQL
 
-I am a Software Quality Assurance professional with **5+ years of experience in software testing**, with more recent experience in process quality, business systems support, operational reporting, Python automation, and workflow improvement.
+I am a Software Quality Assurance professional with **5+ years of experience in software testing**, with more recent experience in process quality, business systems support, operational reporting, data analysis and workflow improvement.
 
 My work combines software quality, technical problem-solving, data analysis, and process optimisation. I enjoy understanding how systems and workflows operate, identifying repetitive or error-prone processes, and building practical technical solutions that improve accuracy, visibility, and operational efficiency.
 
-My portfolio projects are inspired by realistic operational challenges and demonstrate experience with Python automation, SQL, data preparation, Excel reporting, API integration, cloud services, application troubleshooting, testing, deployment, and technical documentation.
+My portfolio projects are inspired by realistic operational challenges and demonstrate experience with Python, SQL, data preparation, Excel reporting, API integration, cloud services, application troubleshooting, testing, deployment, and technical documentation.
 
 ---
 
@@ -14,7 +14,7 @@ My portfolio projects are inspired by realistic operational challenges and demon
 
 ### 🔍 Audit Tracker Workflow Automation
 
-A production-inspired Python automation project that recreates a weekly audit-preparation workflow previously completed through repetitive manual steps.
+A production-inspired Python & SQL workflow automation project that recreates a weekly audit-preparation workflow previously completed through repetitive manual steps.
 
 The solution extracts operational task data from a simulated centralised system, applies business rules, maps tasks to the appropriate team, generates clickable task links, prevents duplicate records, and updates team-specific Excel audit trackers.
 
@@ -93,7 +93,7 @@ The project demonstrates REST API integration, cloud-service configuration, envi
 
 ---
 
-## 🔧 Technical Systems Experience
+## 🔧 Technical Operations Experience
 
 My professional and project experience includes:
 
@@ -134,10 +134,11 @@ My professional background includes work within game development and AI-powered 
 
 ## 🛠 Technical Skills
 
-### Programming and Automation
+### Programming & Automation
 
 - Python
 - JavaScript
+- Typescript
 - SQL
 - Pandas
 - OpenPyXL
@@ -198,7 +199,7 @@ My professional background includes work within game development and AI-powered 
 
 I am particularly interested in opportunities involving:
 
-- Technical Systems
+- Technical Operations
 - Application Support
 - Software Quality Assurance
 - Business Systems
